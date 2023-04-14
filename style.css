@@ -1,0 +1,15 @@
+body{
+    background-color: #dda990;
+    font-family: "Kanit";
+}
+.topic img{
+    width: 250px;
+}
+.somtham{
+    color: #303030
+    ;
+}
+.topic h1{
+    border-radius: 100px;
+    padding: 50px;
+}
